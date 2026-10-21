@@ -20,7 +20,7 @@ variable "instance_type" {
 
 variable "id_account" {
   type        = "string"
-  description = "indicar el id de la cuenta ejemplo: <AWS_ACCOUNT_ID>"
+  description = "indicar el id de la cuenta ejemplo: 123456789012"
 }
 
 
